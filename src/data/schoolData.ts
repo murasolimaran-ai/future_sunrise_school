@@ -212,7 +212,7 @@ export const HERO_SLIDES: HeroSlide[] = [
     primaryCtaLink: '/about',
     secondaryCtaText: 'Admission Enquiry',
     secondaryCtaLink: '#admission-modal',
-    image: '/src/assets/images/hero_school_campus_1790234182884.jpg'
+    image: '/images/hero_school_campus_1790234182884.jpg'
   },
   {
     id: 'slide-2',
@@ -225,7 +225,7 @@ export const HERO_SLIDES: HeroSlide[] = [
     primaryCtaLink: '/academics',
     secondaryCtaText: 'Admission Enquiry',
     secondaryCtaLink: '#admission-modal',
-    image: '/src/assets/images/hero_classroom_learning_1790234194929.jpg'
+    image: '/images/hero_classroom_learning_1790234194929.jpg'
   },
   {
     id: 'slide-3',
@@ -238,7 +238,7 @@ export const HERO_SLIDES: HeroSlide[] = [
     primaryCtaLink: '/campus',
     secondaryCtaText: 'Admission Enquiry',
     secondaryCtaLink: '#admission-modal',
-    image: '/src/assets/images/science_laboratory_1790234213070.jpg'
+    image: '/images/science_laboratory_1790234213070.jpg'
   },
   {
     id: 'slide-4',
@@ -251,7 +251,7 @@ export const HERO_SLIDES: HeroSlide[] = [
     primaryCtaLink: '/student-life',
     secondaryCtaText: 'Admission Enquiry',
     secondaryCtaLink: '#admission-modal',
-    image: '/src/assets/images/hero_student_community_1790235798493.jpg'
+    image: '/images/hero_student_community_1790235798493.jpg'
   }
 ];
 
@@ -332,7 +332,7 @@ export const ACADEMIC_STAGES: AcademicStage[] = [
     fullDesc: 'Our Early Years program is rooted in child-centered exploration. In warm, vibrant learning spaces, children build early phonetic mastery, number sense, spatial awareness, and interpersonal kindness through sensory experiences and joyful discovery.',
     highlights: ['Montessori & play-way fusion', 'Phonics & expressive language immersion', 'Sensory exploration corners', 'Low 1:12 teacher-to-child ratio'],
     subjects: ['Foundational English', 'Early Numeracy', 'Environmental Awareness', 'Creative Arts', 'Kinesthetic Play'],
-    image: '/src/assets/images/hero_classroom_learning_1790234194929.jpg'
+    image: '/images/hero_classroom_learning_1790234194929.jpg'
   },
   {
     id: 'primary',
@@ -344,7 +344,7 @@ export const ACADEMIC_STAGES: AcademicStage[] = [
     fullDesc: 'The Primary School years mark the transition to structured academic inquiry. Students develop strong literacy in languages, mathematical intuition, scientific observation, and artistic expression within a supportive, joyful classroom setting.',
     highlights: ['Theme-based integrated learning', 'Mental math & reading clubs', 'Introduction to computer fundamentals', 'Outdoor sports and physical education'],
     subjects: ['English Language & Literature', 'Mathematics', 'General Science', 'Social Studies', 'Second Language (Tamil/Hindi)', 'Information Technology', 'Visual Arts'],
-    image: '/src/assets/images/hero_school_campus_1790234182884.jpg'
+    image: '/images/hero_school_campus_1790234182884.jpg'
   },
   {
     id: 'middle-school',
@@ -356,7 +356,7 @@ export const ACADEMIC_STAGES: AcademicStage[] = [
     fullDesc: 'Middle School bridges elementary foundational learning with rigorous disciplinary studies. Students begin formal laboratory experiments, project-based investigations, and structured debates to cultivate analytical thinking and independent work habits.',
     highlights: ['Dedicated laboratory sessions in Science', 'Math Olympiad foundation batches', 'Coding and algorithmic problem solving', 'Inter-house competitions in sports and culture'],
     subjects: ['Advanced English', 'Mathematics & Geometry', 'Physics, Chemistry & Biology', 'History & Civics', 'Geography', 'Second & Third Language', 'Computer Science'],
-    image: '/src/assets/images/science_laboratory_1790234213070.jpg'
+    image: '/images/science_laboratory_1790234213070.jpg'
   },
   {
     id: 'secondary',
@@ -368,7 +368,7 @@ export const ACADEMIC_STAGES: AcademicStage[] = [
     fullDesc: 'Our Secondary curriculum prepares students for the CBSE All India Secondary School Examination (AISSE). Through systematic practice, remedial coaching, and concept-deepening workshops, students attain scholastic brilliance while preserving personal wellness.',
     highlights: ['CBSE board exam mastery strategies', 'Regular diagnostic chapter assessments', 'Individual academic mentoring sessions', 'Career discovery seminars and aptitude tests'],
     subjects: ['English Communicative', 'Mathematics (Standard / Basic)', 'Integrated Science', 'Social Sciences', 'Hindi / Tamil / Sanskrit', 'Information Technology'],
-    image: '/src/assets/images/hero_classroom_learning_1790234194929.jpg'
+    image: '/images/hero_classroom_learning_1790234194929.jpg'
   },
   {
     id: 'higher-secondary',
@@ -380,7 +380,7 @@ export const ACADEMIC_STAGES: AcademicStage[] = [
     fullDesc: 'The Higher Secondary program provides focused specialization under eminent senior educators. Students receive rigorous preparation for CBSE Senior School Certificate Examinations (AISSCE) alongside integrated orientation for national competitive examinations.',
     highlights: ['Science (Physics, Chemistry, Math/Bio)', 'Commerce (Accountancy, Business, Economics)', 'Computer Science & AI Electives', 'Integrated competitive exam orientation'],
     subjects: ['Physics', 'Chemistry', 'Mathematics', 'Biology', 'Computer Science', 'Accountancy', 'Business Studies', 'Economics', 'Applied Mathematics', 'English Core'],
-    image: '/src/assets/images/science_laboratory_1790234213070.jpg'
+    image: '/images/science_laboratory_1790234213070.jpg'
   }
 ];
 
@@ -396,7 +396,7 @@ export const CAMPUS_FACILITIES: CampusFacility[] = [
     equipment: ['Interactive smart displays', 'Document cameras for live demonstration', 'Wireless audio systems', 'Teacher workstation terminals'],
     safetySpecs: ['Dual exit doors in all rooms', 'Concealed fire-retardant wiring', 'First-aid kits on each corridor'],
     studentActivities: ['Interactive quizzes and peer presentations', 'Virtual field trips to museums and space centers', 'Collaborative group problem solving'],
-    image: '/src/assets/images/hero_classroom_learning_1790234194929.jpg'
+    image: '/images/hero_classroom_learning_1790234194929.jpg'
   },
   {
     id: 'science-laboratory',
@@ -409,7 +409,7 @@ export const CAMPUS_FACILITIES: CampusFacility[] = [
     equipment: ['Compound binocular microscopes', 'Digital analytical balances (0.001g precision)', 'Fume hoods with exhaust scrubbers', 'Spectroscopes, optical benches, and galvanic sets'],
     safetySpecs: ['Automatic emergency gas shutoff valve', 'Fire extinguishers & sand buckets in every bay', 'Protective lab coats and safety goggles mandatory'],
     studentActivities: ['Titration and chemical synthesis experiments', 'Specimen microtomy and slide preparation', 'Projectile motion and circuit analysis'],
-    image: '/src/assets/images/science_laboratory_1790234213070.jpg'
+    image: '/images/science_laboratory_1790234213070.jpg'
   },
   {
     id: 'computer-lab',
@@ -422,7 +422,7 @@ export const CAMPUS_FACILITIES: CampusFacility[] = [
     equipment: ['Dell OptiPlex desktop workstations', 'Arduino & Raspberry Pi robotics hardware', 'Enterprise firewall and student-safe internet filter'],
     safetySpecs: ['Centralized uninterrupted power supply (UPS)', 'Static-free raised flooring', 'Surveillance and remote monitor management'],
     studentActivities: ['Competitive programming and algorithm design', 'Web development and mobile UI prototyping', 'Robotics sensor coding and automation experiments'],
-    image: '/src/assets/images/hero_classroom_learning_1790234194929.jpg'
+    image: '/images/hero_classroom_learning_1790234194929.jpg'
   },
   {
     id: 'library',
@@ -435,7 +435,7 @@ export const CAMPUS_FACILITIES: CampusFacility[] = [
     equipment: ['Automated RFID book checkout kiosks', 'OPAC search stations', 'Kindle e-readers for senior literature scholars'],
     safetySpecs: ['Fire safety sprinkler system', 'Constant humidity and temperature control for archival volumes'],
     studentActivities: ['Literary circles and book reviews', 'Senior research paper methodology classes', 'Daily newspaper reading hours'],
-    image: '/src/assets/images/school_library_1790236979658.jpg'
+    image: '/images/school_library_1790236979658.jpg'
   },
   {
     id: 'sports',
@@ -448,7 +448,7 @@ export const CAMPUS_FACILITIES: CampusFacility[] = [
     equipment: ['Cricket bowling machines and protective gear', 'Olympic standard high jump and pole vault mattresses', 'Automated timing gates for sprint timing'],
     safetySpecs: ['Certified first-aid paramedics on duty during games', 'Non-slip shock-absorbing sports flooring'],
     studentActivities: ['Daily house sports league tournaments', 'State-level tournament hosting', 'Morning athletic conditioning sessions'],
-    image: '/src/assets/images/sports_athletics_1790236923140.jpg'
+    image: '/images/sports_athletics_1790236923140.jpg'
   },
   {
     id: 'playground',
@@ -461,7 +461,7 @@ export const CAMPUS_FACILITIES: CampusFacility[] = [
     equipment: ['Multi-tier jungle gyms with safety slides', 'Sensory balance beams and rope bridges', 'Shaded sand pit with water play section'],
     safetySpecs: ['Full perimeter fencing with child-safe gate locks', 'Continuous teacher supervision during all recess slots'],
     studentActivities: ['Structured movement games', 'Nature exploration and gardening lessons', 'Free creative outdoor play'],
-    image: '/src/assets/images/hero_school_campus_1790234182884.jpg'
+    image: '/images/hero_school_campus_1790234182884.jpg'
   },
   {
     id: 'auditorium',
@@ -474,7 +474,7 @@ export const CAMPUS_FACILITIES: CampusFacility[] = [
     equipment: ['Yamaha digital audio mixing consoles', 'JBL line-array sound reinforcement system', 'DMX computerized intelligent stage lighting'],
     safetySpecs: ['Four wide emergency exits with panic push bars', 'Automatic stage fire deluge system'],
     studentActivities: ['Annual drama and musical productions', 'Inter-school Model United Nations debates', 'Guest lectures by renowned scientists and dignitaries'],
-    image: '/src/assets/images/dance_performing_arts_1790236938143.jpg'
+    image: '/images/dance_performing_arts_1790236938143.jpg'
   },
   {
     id: 'transportation',
@@ -487,7 +487,7 @@ export const CAMPUS_FACILITIES: CampusFacility[] = [
     equipment: ['Digital breathalyzer tests for drivers before every shift', 'Speed limiters calibrated strictly to 40 km/h', 'Emergency SOS buttons at every row'],
     safetySpecs: ['Mandatory seatbelts for all passengers', 'First-aid kits and emergency window hammers'],
     studentActivities: ['Field trip transport', 'Inter-school sports tournament travel', 'Convenient daily door-to-corridor pickup'],
-    image: '/src/assets/images/hero_school_campus_1790234182884.jpg'
+    image: '/images/hero_school_campus_1790234182884.jpg'
   },
   {
     id: 'canteen',
@@ -500,7 +500,7 @@ export const CAMPUS_FACILITIES: CampusFacility[] = [
     equipment: ['Commercial steam cooking boilers', 'Automated dish sanitizer and ultraviolet drying unit', 'Cold room storage for fresh vegetables and milk'],
     safetySpecs: ['Daily water testing certificates displayed publicly', 'Staff wear hygiene hairnets, aprons, and food-grade gloves'],
     studentActivities: ['Table etiquette and community dining', 'Nutrition awareness workshops', 'Zero food waste student campaigns'],
-    image: '/src/assets/images/hero_school_campus_1790234182884.jpg'
+    image: '/images/hero_school_campus_1790234182884.jpg'
   },
   {
     id: 'safety',
@@ -513,7 +513,7 @@ export const CAMPUS_FACILITIES: CampusFacility[] = [
     equipment: ['Automated external defibrillator (AED)', 'Emergency oxygen cylinders and nebulizers', 'Digital visitor RFID management stations'],
     safetySpecs: ['Police-verified credentials for all non-teaching staff', 'Anti-bullying committee and student grievance boxes'],
     studentActivities: ['Annual fire drill and emergency evacuation training', 'Health checkup camps (dental, vision, BMI)', 'Personal safety awareness workshops'],
-    image: '/src/assets/images/hero_school_campus_1790234182884.jpg'
+    image: '/images/hero_school_campus_1790234182884.jpg'
   }
 ];
 
@@ -625,7 +625,7 @@ export const SCHOOL_EVENTS: SchoolEvent[] = [
     description: 'The 26th Annual Sports Day brings together students across our three campuses. Featuring our traditional torch-lighting relay, disciplined inter-house march past, track finals from 100m to 1500m, high jump, shot put, and an invigorating yoga-aerobics drill.',
     highlights: ['Torch relay led by national level student athletes', 'Four house contingents: Emerald, Ruby, Sapphire, Topaz', 'Special parent & alumni sprint challenges', 'Trophy presentation by international athletes'],
     participants: 'Over 800 student athletes across all age divisions',
-    image: '/src/assets/images/sports_athletics_1790236923140.jpg'
+    image: '/images/sports_athletics_1790236923140.jpg'
   },
   {
     id: 'event-2',
@@ -641,7 +641,7 @@ export const SCHOOL_EVENTS: SchoolEvent[] = [
     description: 'An open-doors public science conclave where young researchers from Grade 4 to Grade 12 demonstrate working prototypes, live chemical syntheses, and automated AI models to parents, visiting scientists, and peer schools.',
     highlights: ['Keynote address by senior ISRO propulsion engineer', 'Live solar-powered vehicle race on campus grounds', 'Interactive robotics arena and battlebot challenge', 'Biotechnology plant tissue culture workshop'],
     participants: '120 project teams representing all three campus branches',
-    image: '/src/assets/images/science_laboratory_1790234213070.jpg'
+    image: '/images/science_laboratory_1790234213070.jpg'
   },
   {
     id: 'event-3',
@@ -657,7 +657,7 @@ export const SCHOOL_EVENTS: SchoolEvent[] = [
     description: 'An evening of reflection, musical grandeur, and institutional awards marking our milestone Silver Jubilee. The program features our 100-student orchestra, historical dance theatricals, and felicitations of founder teachers.',
     highlights: ['Unveiling of the 25-year commemorative heritage archive', 'Felicitation of 15 long-serving educators and staff', 'Historical Broadway-style dance drama "The Journey of Knowledge"', 'Gala dinner for management, faculty, and alumni'],
     participants: 'Entire school community, alumni, and invited dignitaries',
-    image: '/src/assets/images/dance_performing_arts_1790236938143.jpg'
+    image: '/images/dance_performing_arts_1790236938143.jpg'
   },
   {
     id: 'event-4',
@@ -674,7 +674,7 @@ export const SCHOOL_EVENTS: SchoolEvent[] = [
     highlights: ['Folk dances from 12 distinct Indian states', 'Shakespearean stage drama enacted by senior literary society', 'Symphonic fusion orchestra with 60 live instrumentalists', 'Over 2,000 enthusiastic parents in attendance'],
     participants: '650 student performers across Kindergarten to Grade 12',
     results: ['Overall Cultural Trophy awarded to Ruby House', 'Best Stage Actor: Siddharth Menon (Grade 11)'],
-    image: '/src/assets/images/music_orchestra_1790236991828.jpg'
+    image: '/images/music_orchestra_1790236991828.jpg'
   },
   {
     id: 'event-5',
@@ -691,7 +691,7 @@ export const SCHOOL_EVENTS: SchoolEvent[] = [
     highlights: ['Keynote by Former Ambassador of India to the Netherlands', 'Simulation of historical 1962 crisis cabinet', 'Midnight emergency resolution voting sessions'],
     participants: '280 delegates from 24 reputed South Indian schools',
     results: ['Best Delegation: National Public School, Bangalore', 'Best Delegate (UNSC): Priyadarshini K. (FSIS)'],
-    image: '/src/assets/images/hero_school_campus_1790234182884.jpg'
+    image: '/images/hero_school_campus_1790234182884.jpg'
   }
 ];
 
@@ -702,12 +702,12 @@ export const GALLERY_ALBUMS: GalleryAlbum[] = [
     title: 'Silver Jubilee Annual Day & Cultural Gala',
     category: 'events',
     date: 'February 2026',
-    coverImage: '/src/assets/images/hero_school_campus_1790234182884.jpg',
+    coverImage: '/images/hero_school_campus_1790234182884.jpg',
     photoCount: 16,
     photos: [
-      { url: '/src/assets/images/hero_school_campus_1790234182884.jpg', caption: 'Grand ceremonial lamp lighting by distinguished trustees and Principal' },
-      { url: '/src/assets/images/hero_classroom_learning_1790234194929.jpg', caption: 'Primary school scholars presenting traditional welcome dance' },
-      { url: '/src/assets/images/science_laboratory_1790234213070.jpg', caption: 'Senior student orchestra performing symphonic classical symphony' }
+      { url: '/images/hero_school_campus_1790234182884.jpg', caption: 'Grand ceremonial lamp lighting by distinguished trustees and Principal' },
+      { url: '/images/hero_classroom_learning_1790234194929.jpg', caption: 'Primary school scholars presenting traditional welcome dance' },
+      { url: '/images/science_laboratory_1790234213070.jpg', caption: 'Senior student orchestra performing symphonic classical symphony' }
     ]
   },
   {
@@ -716,11 +716,11 @@ export const GALLERY_ALBUMS: GalleryAlbum[] = [
     title: 'STEM Innovation & Robotics Expo',
     category: 'academics',
     date: 'January 2026',
-    coverImage: '/src/assets/images/science_laboratory_1790234213070.jpg',
+    coverImage: '/images/science_laboratory_1790234213070.jpg',
     photoCount: 14,
     photos: [
-      { url: '/src/assets/images/science_laboratory_1790234213070.jpg', caption: 'High school students demonstrating chemical titration indicators' },
-      { url: '/src/assets/images/hero_classroom_learning_1790234194929.jpg', caption: 'Robotics team testing autonomous obstacle-avoiding mobile cart' }
+      { url: '/images/science_laboratory_1790234213070.jpg', caption: 'High school students demonstrating chemical titration indicators' },
+      { url: '/images/hero_classroom_learning_1790234194929.jpg', caption: 'Robotics team testing autonomous obstacle-avoiding mobile cart' }
     ]
   },
   {
@@ -729,11 +729,11 @@ export const GALLERY_ALBUMS: GalleryAlbum[] = [
     title: 'Serene Campus Grounds & Facilities',
     category: 'campus',
     date: 'November 2025',
-    coverImage: '/src/assets/images/hero_school_campus_1790234182884.jpg',
+    coverImage: '/images/hero_school_campus_1790234182884.jpg',
     photoCount: 18,
     photos: [
-      { url: '/src/assets/images/hero_school_campus_1790234182884.jpg', caption: 'Colonnaded red-brick heritage academic block in morning sunlight' },
-      { url: '/src/assets/images/hero_classroom_learning_1790234194929.jpg', caption: 'Ergonomic smart classroom with interactive touch display in session' }
+      { url: '/images/hero_school_campus_1790234182884.jpg', caption: 'Colonnaded red-brick heritage academic block in morning sunlight' },
+      { url: '/images/hero_classroom_learning_1790234194929.jpg', caption: 'Ergonomic smart classroom with interactive touch display in session' }
     ]
   },
   {
@@ -742,11 +742,11 @@ export const GALLERY_ALBUMS: GalleryAlbum[] = [
     title: 'Inter-House Athletic Championship',
     category: 'sports',
     date: 'October 2025',
-    coverImage: '/src/assets/images/hero_school_campus_1790234182884.jpg',
+    coverImage: '/images/hero_school_campus_1790234182884.jpg',
     photoCount: 22,
     photos: [
-      { url: '/src/assets/images/hero_school_campus_1790234182884.jpg', caption: 'Disciplined house march past contingents saluting the school flag' },
-      { url: '/src/assets/images/science_laboratory_1790234213070.jpg', caption: 'Senior 100m sprint finals at the synthetic track' }
+      { url: '/images/hero_school_campus_1790234182884.jpg', caption: 'Disciplined house march past contingents saluting the school flag' },
+      { url: '/images/science_laboratory_1790234213070.jpg', caption: 'Senior 100m sprint finals at the synthetic track' }
     ]
   }
 ];
@@ -766,7 +766,7 @@ export const NEWS_ARTICLES: NewsArticle[] = [
       'Their innovative project, titled "Biomimetic Cellulose Filtration for Groundwater Decontamination," was praised by university panel judges for its practical viability in rural communities.',
       'The school will now provide financial sponsorship for the students to file a provisional patent under guidance from university mentors.'
     ],
-    image: '/src/assets/images/science_laboratory_1790234213070.jpg'
+    image: '/images/science_laboratory_1790234213070.jpg'
   },
   {
     id: 'news-2',
@@ -781,7 +781,7 @@ export const NEWS_ARTICLES: NewsArticle[] = [
       'With board examinations approaching, the senior faculty council has inaugurated daily targeted doubt-clearing sessions and stress-mitigation workshops for all Grade 10 and 12 scholars.',
       'Special sessions led by eminent child psychologists and seasoned board examiners focus on time management, precise answer formatting, and maintaining physical vitality.'
     ],
-    image: '/src/assets/images/hero_classroom_learning_1790234194929.jpg'
+    image: '/images/hero_classroom_learning_1790234194929.jpg'
   },
   {
     id: 'news-3',
@@ -796,7 +796,7 @@ export const NEWS_ARTICLES: NewsArticle[] = [
       'Future Sunrise International School announces the formal opening of admission registrations for the 2026–27 academic calendar.',
       'Parents interested in exploring our campuses in Kovur, Rathinamangalam, or RedHills may submit an enquiry online or attend Saturday guided open-house sessions.'
     ],
-    image: '/src/assets/images/hero_school_campus_1790234182884.jpg'
+    image: '/images/hero_school_campus_1790234182884.jpg'
   }
 ];
 
@@ -917,7 +917,7 @@ export const CLUBS_DATA: ClubItem[] = [
     ],
     competitions: ['National Children’s Science Congress', 'State Level Science Olympiad'],
     achievements: ['First Prize at State Science Congress 2026', 'Overall Rolling Trophy at SRM TechFest 2025'],
-    image: '/src/assets/images/science_laboratory_1790234213070.jpg'
+    image: '/images/science_laboratory_1790234213070.jpg'
   },
   {
     id: 'maths',
@@ -934,7 +934,7 @@ export const CLUBS_DATA: ClubItem[] = [
     projects: ['Creation of an interactive Math Museum in the middle block', 'Algorithmic fractal art generation using graphing tools'],
     competitions: ['RMO (Regional Mathematical Olympiad)', 'Australian Mathematics Competition'],
     achievements: ['Gold Medalist at All-India Ramanujan Math Olympiad 2025'],
-    image: '/src/assets/images/hero_classroom_learning_1790234194929.jpg'
+    image: '/images/hero_classroom_learning_1790234194929.jpg'
   },
   {
     id: 'coding',
@@ -951,7 +951,7 @@ export const CLUBS_DATA: ClubItem[] = [
     projects: ['Automated school bus timetable and tracking web app', 'Campus waste sorting computer-vision classifier'],
     competitions: ['Google Code-in legacy challenges', 'National Informatics Olympiad'],
     achievements: ['Top 10 Finalist at National Smart India Junior Hackathon'],
-    image: '/src/assets/images/hero_classroom_learning_1790234194929.jpg'
+    image: '/images/hero_classroom_learning_1790234194929.jpg'
   },
   {
     id: 'literary',
@@ -968,7 +968,7 @@ export const CLUBS_DATA: ClubItem[] = [
     projects: ['Publication of the annual student anthology of essays and verse', 'Inter-house dramatic monologue festival'],
     competitions: ['All-India Frank Anthony Memorial Debate', 'National Model UN Conferences'],
     achievements: ['Best Delegation Trophy at Chennai Inter-School Debate League 2025'],
-    image: '/src/assets/images/hero_school_campus_1790234182884.jpg'
+    image: '/images/hero_school_campus_1790234182884.jpg'
   },
   {
     id: 'eco',
@@ -985,7 +985,7 @@ export const CLUBS_DATA: ClubItem[] = [
     projects: ['100% campus organic wet-waste vermicomposting plant', 'Butterfly and pollinator garden with native Tamil Nadu flora'],
     competitions: ['Wipro Earthian National Green School Award', 'Paryavaran Mitra Challenge'],
     achievements: ['Recognized as Top 5 Sustainable School Campuses in South India'],
-    image: '/src/assets/images/hero_school_campus_1790234182884.jpg'
+    image: '/images/hero_school_campus_1790234182884.jpg'
   },
   {
     id: 'quiz',
@@ -1002,7 +1002,7 @@ export const CLUBS_DATA: ClubItem[] = [
     projects: ['Digital daily current affairs bulletin board on school intranet'],
     competitions: ['Tata Crucible Brainbox Junior Quiz', 'Derek O’Brien National Quiz'],
     achievements: ['Runners-up at Times of India National Inter-School Quiz 2025'],
-    image: '/src/assets/images/hero_classroom_learning_1790234194929.jpg'
+    image: '/images/hero_classroom_learning_1790234194929.jpg'
   },
   {
     id: 'robotics',
@@ -1019,7 +1019,7 @@ export const CLUBS_DATA: ClubItem[] = [
     projects: ['Solar tracker automated array for campus weather station', 'Smart classroom automated energy-saver motion system'],
     competitions: ['World Robot Olympiad (WRO) Regional', 'FIRST LEGO League India'],
     achievements: ['First Place in Open Category at WRO South Regional 2025'],
-    image: '/src/assets/images/robotics_innovation_1790236952194.jpg'
+    image: '/images/robotics_innovation_1790236952194.jpg'
   },
   {
     id: 'photography',
@@ -1036,7 +1036,7 @@ export const CLUBS_DATA: ClubItem[] = [
     projects: ['"Portraits of Campus Stewards" photographic tribute', 'Official school calendar photo portfolio'],
     competitions: ['National Geographic Youth Photography Contest', 'Canon Young Photographer Challenge'],
     achievements: ['Featured in the Indian Young Photographer Showcase 2025'],
-    image: '/src/assets/images/arts_painting_studio_1790236966444.jpg'
+    image: '/images/arts_painting_studio_1790236966444.jpg'
   }
 ];
 
