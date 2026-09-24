@@ -1,0 +1,6 @@
+{
+  "name": "Future Sunrise International School",
+  "description": "Established heritage academic institution fostering excellence, character, and holistic development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
