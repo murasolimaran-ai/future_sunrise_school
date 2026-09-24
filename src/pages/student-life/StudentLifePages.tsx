@@ -45,42 +45,42 @@ export const StudentLifeOverviewPage: React.FC = () => {
                 title: 'Sports & Athletics',
                 desc: 'Cricket academy, FIFA-dimension turf, indoor badminton courts, and 400m track.',
                 link: '/student-life/sports',
-                image: '/src/assets/images/sports_athletics_1790236923140.jpg',
+                image: '/images/sports_athletics_1790236923140.jpg',
                 tag: 'Athletics'
               },
               {
                 title: 'Dance & Performing Arts',
                 desc: 'Bharatanatyam classical training, contemporary choreography, and theatrical drama.',
                 link: '/student-life/dance',
-                image: '/src/assets/images/dance_performing_arts_1790236938143.jpg',
+                image: '/images/dance_performing_arts_1790236938143.jpg',
                 tag: 'Dance & Stage'
               },
               {
                 title: 'Student Clubs & Societies',
                 desc: 'Robotics, Coding, Debate, Eco Warriors, Mathematics, and Photography guilds.',
                 link: '/student-life/clubs',
-                image: '/src/assets/images/robotics_innovation_1790236952194.jpg',
+                image: '/images/robotics_innovation_1790236952194.jpg',
                 tag: 'Guilds & Societies'
               },
               {
                 title: 'Visual & Performing Arts',
                 desc: 'Classical Carnatic vocal, Western symphony, canvas painting, and sculpturing.',
                 link: '/student-life/arts-music',
-                image: '/src/assets/images/music_orchestra_1790236991828.jpg',
+                image: '/images/music_orchestra_1790236991828.jpg',
                 tag: 'Arts & Music'
               },
               {
                 title: 'Technology & Innovation',
                 desc: 'Maker spaces, 3D printing labs, AI hackathons, and IoT prototyping workshops.',
                 link: '/student-life/technology',
-                image: '/src/assets/images/robotics_innovation_1790236952194.jpg',
+                image: '/images/robotics_innovation_1790236952194.jpg',
                 tag: 'Innovation'
               },
               {
                 title: 'Educational Expeditions',
                 desc: 'Annual heritage immersions, NASA space camps, and ecology field studies.',
                 link: '/student-life/educational-tours',
-                image: '/src/assets/images/hero_student_community_1790235798493.jpg',
+                image: '/images/hero_student_community_1790235798493.jpg',
                 tag: 'Expeditions'
               }
             ].map((card) => (
@@ -141,7 +141,7 @@ export const SportsPage: React.FC = () => {
           {/* Featured Hero Photo */}
           <div className="rounded-2xl overflow-hidden shadow-lg border border-slate-200">
             <img
-              src="/src/assets/images/sports_athletics_1790236923140.jpg"
+              src="/images/sports_athletics_1790236923140.jpg"
               alt="Future Sunrise School Sports Arena and Athletics"
               className="w-full h-72 sm:h-96 object-cover"
             />
@@ -195,7 +195,7 @@ export const DancePerformingArtsPage: React.FC = () => {
           
           <div className="rounded-2xl overflow-hidden shadow-lg border border-slate-200">
             <img
-              src="/src/assets/images/dance_performing_arts_1790236938143.jpg"
+              src="/images/dance_performing_arts_1790236938143.jpg"
               alt="Future Sunrise Indian Classical Dance and Performing Arts"
               className="w-full h-72 sm:h-96 object-cover"
             />
@@ -379,7 +379,7 @@ export const ArtsMusicPage: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="rounded-2xl overflow-hidden shadow-md border border-slate-200">
               <img
-                src="/src/assets/images/music_orchestra_1790236991828.jpg"
+                src="/images/music_orchestra_1790236991828.jpg"
                 alt="Future Sunrise School Orchestra and Music Suite"
                 className="w-full h-64 object-cover"
               />
@@ -391,7 +391,7 @@ export const ArtsMusicPage: React.FC = () => {
 
             <div className="rounded-2xl overflow-hidden shadow-md border border-slate-200">
               <img
-                src="/src/assets/images/arts_painting_studio_1790236966444.jpg"
+                src="/images/arts_painting_studio_1790236966444.jpg"
                 alt="Future Sunrise Fine Arts and Painting Studio"
                 className="w-full h-64 object-cover"
               />
@@ -429,7 +429,7 @@ export const TechnologyPage: React.FC = () => {
           
           <div className="rounded-2xl overflow-hidden shadow-md border border-slate-200">
             <img
-              src="/src/assets/images/robotics_innovation_1790236952194.jpg"
+              src="/images/robotics_innovation_1790236952194.jpg"
               alt="Future Sunrise School Robotics Lab and Maker Space"
               className="w-full h-72 sm:h-96 object-cover"
             />
@@ -461,7 +461,7 @@ export const EducationalToursPage: React.FC = () => {
         <div className="site-container max-w-5xl space-y-12">
           <div className="rounded-2xl overflow-hidden shadow-md border border-slate-200">
             <img
-              src="/src/assets/images/hero_student_community_1790235798493.jpg"
+              src="/images/hero_student_community_1790235798493.jpg"
               alt="Future Sunrise Student Expeditions"
               className="w-full h-72 sm:h-96 object-cover"
             />
@@ -493,7 +493,7 @@ export const CelebrationsPage: React.FC = () => {
         <div className="site-container max-w-5xl space-y-12">
           <div className="rounded-2xl overflow-hidden shadow-md border border-slate-200">
             <img
-              src="/src/assets/images/dance_performing_arts_1790236938143.jpg"
+              src="/images/dance_performing_arts_1790236938143.jpg"
               alt="Future Sunrise School Cultural Celebrations"
               className="w-full h-72 sm:h-96 object-cover"
             />

@@ -115,7 +115,7 @@ export const HomePage: React.FC = () => {
             <div className="lg:col-span-6 relative">
               <div className="relative rounded-2xl overflow-hidden shadow-xl border-2 border-[#102A43]/10 bg-white aspect-[4/3] sm:aspect-[16/11]">
                 <FallbackImage
-                  src="/src/assets/images/hero_school_campus_1790234182884.jpg"
+                  src="/images/hero_school_campus_1790234182884.jpg"
                   alt="Future Sunrise International School Heritage Campus"
                   className="w-full h-full object-cover"
                 />
@@ -296,7 +296,7 @@ export const HomePage: React.FC = () => {
             <div className="lg:col-span-5 flex justify-center">
               <div className="relative w-full max-w-[340px] rounded-2xl overflow-hidden shadow-xl border-4 border-[#102A43]/10 aspect-[3/4] bg-[#F8F6F0]">
                 <FallbackImage
-                  src="/src/assets/images/hero_classroom_learning_1790234194929.jpg"
+                  src="/images/hero_classroom_learning_1790234194929.jpg"
                   alt="Principal Dr. Anandhi Ramachandran"
                   fallbackText="Dr. Anandhi Ramachandran, Principal"
                   className="w-full h-full object-cover object-top"
@@ -437,7 +437,7 @@ export const HomePage: React.FC = () => {
                 title: 'Sports & Athletics',
                 desc: 'Cricket nets, FIFA football turf, athletic tracks & badminton arenas',
                 path: '/student-life/sports',
-                image: '/src/assets/images/sports_athletics_1790236923140.jpg',
+                image: '/images/sports_athletics_1790236923140.jpg',
                 icon: Trophy,
                 tag: 'Athletics'
               },
@@ -445,7 +445,7 @@ export const HomePage: React.FC = () => {
                 title: 'Dance & Performing Arts',
                 desc: 'Bharatanatyam, contemporary theatre and festive stage productions',
                 path: '/student-life/dance',
-                image: '/src/assets/images/dance_performing_arts_1790236938143.jpg',
+                image: '/images/dance_performing_arts_1790236938143.jpg',
                 icon: Drama,
                 tag: 'Cultural'
               },
@@ -453,7 +453,7 @@ export const HomePage: React.FC = () => {
                 title: 'Da Vinci Robotics',
                 desc: 'Mechatronics, microcontroller coding, sensors & rapid prototyping',
                 path: '/student-life/clubs/robotics',
-                image: '/src/assets/images/robotics_innovation_1790236952194.jpg',
+                image: '/images/robotics_innovation_1790236952194.jpg',
                 icon: Bot,
                 tag: 'STEM'
               },
@@ -461,7 +461,7 @@ export const HomePage: React.FC = () => {
                 title: 'Arts & Visual Studios',
                 desc: 'Canvas painting, clay sculpturing, printmaking & gallery exhibitions',
                 path: '/student-life/arts-music',
-                image: '/src/assets/images/arts_painting_studio_1790236966444.jpg',
+                image: '/images/arts_painting_studio_1790236966444.jpg',
                 icon: Palette,
                 tag: 'Visual Arts'
               },
@@ -469,7 +469,7 @@ export const HomePage: React.FC = () => {
                 title: 'Music & Symphony',
                 desc: 'Carnatic vocals, Western orchestral instruments and choral ensembles',
                 path: '/student-life/arts-music',
-                image: '/src/assets/images/music_orchestra_1790236991828.jpg',
+                image: '/images/music_orchestra_1790236991828.jpg',
                 icon: Music,
                 tag: 'Acoustic'
               },
@@ -477,7 +477,7 @@ export const HomePage: React.FC = () => {
                 title: 'Science & Research Lab',
                 desc: 'Hands-on titration, optics, biological taxonomy and physics setups',
                 path: '/campus/science-laboratory',
-                image: '/src/assets/images/science_laboratory_1790234213070.jpg',
+                image: '/images/science_laboratory_1790234213070.jpg',
                 icon: Sparkles,
                 tag: 'Discovery'
               },
@@ -485,7 +485,7 @@ export const HomePage: React.FC = () => {
                 title: 'Central Reading Library',
                 desc: 'Over 22,000 reference volumes, digital journals and research alcoves',
                 path: '/campus/library',
-                image: '/src/assets/images/school_library_1790236979658.jpg',
+                image: '/images/school_library_1790236979658.jpg',
                 icon: BookOpen,
                 tag: 'Scholastic'
               },
@@ -493,7 +493,7 @@ export const HomePage: React.FC = () => {
                 title: 'Student Community & Tours',
                 desc: 'Heritage immersions, science expeditions and peer leadership councils',
                 path: '/student-life/educational-tours',
-                image: '/src/assets/images/hero_student_community_1790235798493.jpg',
+                image: '/images/hero_student_community_1790235798493.jpg',
                 icon: Compass,
                 tag: 'Expeditions'
               }
@@ -783,7 +783,7 @@ export const HomePage: React.FC = () => {
       <section className="relative py-20 sm:py-28 bg-[#102A43] text-white overflow-hidden">
         <div className="absolute inset-0">
           <FallbackImage
-            src="/src/assets/images/hero_school_campus_1790234182884.jpg"
+            src="/images/hero_school_campus_1790234182884.jpg"
             alt="Admission Open"
             className="w-full h-full object-cover opacity-20"
           />
@@ -904,7 +904,7 @@ export const HomePage: React.FC = () => {
               {/* Styled Map Canvas Visual */}
               <div className="relative rounded-xl overflow-hidden h-[300px] sm:h-[340px] bg-slate-100 border border-slate-200 flex items-center justify-center">
                 <FallbackImage
-                  src="/src/assets/images/hero_school_campus_1790234182884.jpg"
+                  src="/images/hero_school_campus_1790234182884.jpg"
                   alt="Campus Map Location"
                   className="w-full h-full object-cover opacity-60 filter grayscale-30"
                 />

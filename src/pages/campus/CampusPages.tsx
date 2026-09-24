@@ -16,7 +16,7 @@ export const CampusOverviewPage: React.FC = () => {
         title="Campus & Learning Environments"
         subtitle="A collegiate 12-acre architectural sanctuary engineered for academic discovery, safety, and athletic excellence."
         breadcrumbs={[{ label: 'Campus' }]}
-        bgImage="/src/assets/images/hero_school_campus_1790234182884.jpg"
+        bgImage="/images/hero_school_campus_1790234182884.jpg"
       />
 
       <section className="py-16 sm:py-24 bg-[#F8F6F0]">

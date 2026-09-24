@@ -89,7 +89,7 @@ export const GalleryPage: React.FC = () => {
                   <div key={vid.title} className="bg-white rounded-xl overflow-hidden border border-slate-200 shadow-2xs group">
                     <div className="h-48 bg-[#102A43] relative flex items-center justify-center overflow-hidden">
                       <FallbackImage
-                        src="/src/assets/images/hero_school_campus_1790234182884.jpg"
+                        src="/images/hero_school_campus_1790234182884.jpg"
                         alt={vid.title}
                         className="w-full h-full object-cover opacity-50 group-hover:scale-105 transition-transform"
                       />

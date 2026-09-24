@@ -71,7 +71,7 @@ export const AboutSchoolPage: React.FC = () => {
             <div className="lg:col-span-5">
               <div className="rounded-2xl overflow-hidden shadow-xl border-4 border-white bg-white">
                 <FallbackImage
-                  src="/src/assets/images/hero_school_campus_1790234182884.jpg"
+                  src="/images/hero_school_campus_1790234182884.jpg"
                   alt="Future Sunrise International School Heritage Grounds"
                   className="w-full h-auto aspect-[4/3] object-cover"
                 />
@@ -208,7 +208,7 @@ export const PrincipalMessagePage: React.FC = () => {
             <div className="md:col-span-4 space-y-4">
               <div className="rounded-xl overflow-hidden border-2 border-slate-200 shadow-md aspect-[3/4] bg-[#F8F6F0]">
                 <FallbackImage
-                  src="/src/assets/images/hero_classroom_learning_1790234194929.jpg"
+                  src="/images/hero_classroom_learning_1790234194929.jpg"
                   alt="Principal Dr. Anandhi Ramachandran"
                   className="w-full h-full object-cover object-top"
                 />
