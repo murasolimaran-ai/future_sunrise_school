@@ -15,7 +15,7 @@ export const PageHero: React.FC<PageHeroProps> = ({
   title,
   subtitle,
   breadcrumbs: _breadcrumbs,
-  bgImage = '/src/assets/images/hero_school_campus_1790234182884.jpg'
+  bgImage = '/images/hero_school_campus_1790234182884.jpg'
 }) => {
   return (
     <section className="relative w-full py-14 sm:py-20 md:py-24 bg-[#102A43] overflow-hidden text-white border-b-2 border-[#D4A72C]">
