@@ -27,7 +27,7 @@ export const PageHero: React.FC<PageHeroProps> = ({
           loading="eager"
           className="w-full h-full object-cover object-center opacity-100 scale-102"
         />
-        <div <div className="absolute inset-0 bg-gradient-to-r from-[#102A43] from-[0%] via-[#102A43]/85 via-[35%] via-[#102A43]/45 via-[52%] to-transparent to-[78%]" />
+        <div className="absolute inset-0 bg-gradient-to-r from-[#102A43] from-[0%] via-[#102A43]/85 via-[35%] via-[#102A43]/45 via-[52%] to-transparent to-[78%]" />
       </div>
 
       <div className="site-container relative z-10">
